@@ -12,13 +12,14 @@
 
 #### Week 1
 ##### Focus topics
-Cindy: Machine learning, NLP
-Devin: NLP
-Richa: Chatbot, Connecting API to chatbot/ extracting data from Yelp
-Joe: NLP
-Jesslyn: Chatbot, Connecting NLP to chatbot
-Jess: Chatbot, machine learning
-Justine: Machine Learning
+* Cindy: Machine learning, NLP
+* Devin: NLP
+* Richa: Chatbot, Connecting API to chatbot/ extracting data from Yelp
+* Joe: NLP
+* Jesslyn: Chatbot, Connecting NLP to chatbot
+* Jess: Chatbot, machine learning
+* Justine: Machine Learning
+
 What platform we want to use to create the chatbot- aka Messenger/Microsoft ASURE/ etc
 
 #### Week 2
