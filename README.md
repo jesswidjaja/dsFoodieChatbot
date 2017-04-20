@@ -12,6 +12,7 @@
 
 #### Week 1
 ##### Focus topics
+* Web scraper vs. getting the Challenge Yelp Dataset.
 * Cindy: Machine learning, NLP
 * Devin: NLP
 * Richa: Chatbot, Connecting API to chatbot/ extracting data from Yelp
