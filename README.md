@@ -22,7 +22,7 @@
 * Jess: Chatbot, machine learning
 * Justine: Machine Learning
 
-What platform we want to use to create the chatbot- aka Messenger/Microsoft ASURE/ etc
+What platform we want to use to create the chatbot- aka Messenger/Microsoft AZURE/ etc
 
 #### Week 2
 Know the basics of chatbot and focus topics
@@ -30,4 +30,4 @@ Start building a chatbot and figure out how to use the Yelp API and connect it
 
 ##### Possible future features
 + Notifications on deals
-+ Ability to output multiples suggestions
++ Ability to output multiple suggestions
