@@ -7,6 +7,7 @@
 * Learn to use an API and extract data from Yelp. 
 * Learn basic NLP/ concepts of machine learning
 * Criteria to filter user requests- price, tags, location, ethnic, ratings, parking, distance, pictures from the final restaurant suggestion
+* Learn git commands before the meeting next week
 
 ### Weekly Goals
 
